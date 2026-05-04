@@ -53,11 +53,8 @@ export default function Home() {
       />
 
       <header className="relative z-10 flex items-center justify-between px-6 py-6 sm:px-10">
-        <div className="flex items-center gap-2">
-          <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-orange-500/15 text-lg font-semibold text-orange-400 ring-1 ring-orange-500/30">
-            L
-          </span>
-          <span className="text-sm font-medium tracking-wide text-zinc-300">
+        <div className="flex items-center">
+          <span className="text-sm font-semibold uppercase tracking-[0.22em] text-zinc-200 [font-family:var(--font-geist-mono)]">
             Lando
           </span>
         </div>
