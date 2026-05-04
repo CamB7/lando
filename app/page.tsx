@@ -16,8 +16,8 @@ const japanPhotos = [
     alt: "Shibuya crossing in Tokyo at night",
   },
   {
-    src: "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80",
-    alt: "Traditional Japanese temple architecture",
+    src: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=1200&q=80",
+    alt: "Rice terraces and homes in the Japanese countryside",
   },
 ];
 
@@ -89,8 +89,8 @@ export default function Home() {
             exploring.
           </p>
           <p className="mt-4 max-w-md text-sm text-zinc-500">
-            Dreaming of Japan? Scroll for a taste of temples, peaks, and neon—then
-            see how Lando keeps the trip organized.
+            Dreaming of Japan? Scroll for temples, peaks, city nights, and quiet
+            countryside—then see how Lando keeps the trip organized.
           </p>
         </section>
 
