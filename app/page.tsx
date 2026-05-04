@@ -16,7 +16,7 @@ const japanPhotos = [
     alt: "Shibuya crossing in Tokyo at night",
   },
   {
-    src: "https://images.unsplash.com/photo-1524413840807-0c3cb3faf3dc?auto=format&fit=crop&w=1200&q=80",
+    src: "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80",
     alt: "Traditional Japanese temple architecture",
   },
 ];
